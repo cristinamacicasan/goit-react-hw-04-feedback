@@ -1,0 +1,23 @@
+.container {
+
+    width: 350px;
+    display: flex;
+}
+
+.goodButton {
+    color: white;
+    font-size: 35px;
+    background-color: green;
+}
+
+.neutralButton {
+    color: white;
+    font-size: 35px;
+    background-color: grey;
+}
+
+.badButton {
+    color: white;
+    font-size: 35px;
+    background-color: red;
+}

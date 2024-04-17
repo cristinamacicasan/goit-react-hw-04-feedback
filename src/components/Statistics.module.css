@@ -1,0 +1,29 @@
+.statisticsContainer {
+    width: 450px;
+}
+
+h1 {
+    width: 350px;
+}
+
+h2 {
+    font-size: 35px;
+    width: 350px;
+}
+
+.statisticItem {
+    font-size: 25px;
+
+}
+
+.total {
+    font-weight: bold;
+    font-size: 30px;
+
+}
+
+.positivePercentage {
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(82, 21, 235, 0.833)
+}
